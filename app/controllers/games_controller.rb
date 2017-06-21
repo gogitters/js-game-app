@@ -7,4 +7,7 @@ class GamesController < ApplicationController
 
   def numbers
   end
+
+  def callback
+  end
 end
